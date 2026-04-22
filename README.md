@@ -20,7 +20,7 @@ Me atrae la idea de crear sistemas que combinen visión y habla, con intersecci�
 
 ---
 
-## 🛠️ Tecnologías que uso
+## Tecnologías que uso
 * **Lenguajes:** Python / Node JS + React / C#
 * **Modelado:** TensorFlow
 * **SO** Linux / Ubuntu.
